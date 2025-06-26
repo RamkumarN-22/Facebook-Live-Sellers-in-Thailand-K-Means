@@ -56,5 +56,5 @@ To use **K-Means Clustering** to discover hidden patterns in user engagement acr
 
 ## 📎 Files
 
-- `Status_type behavior.ipynb` — Jupyter Notebook with full code
+- ` Facebook Live Sellers in Thailand K-Means.ipynb` — Jupyter Notebook with full code
 - `insight_report.md` — Insights and observations from clustering
